@@ -1,0 +1,3 @@
+Erro: Roteador Ter6 inexistente no NetMap
+Erro: Terminal Ter9 inexistente no NetMap
+

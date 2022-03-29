@@ -1,0 +1,4 @@
+Erro: Terminal Rot1 inexistente no NetMap
+Erro: Roteador Ter3 inexistente no NetMap
+Erro: Roteador Rot5 inexistente no NetMap
+

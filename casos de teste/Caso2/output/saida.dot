@@ -1,0 +1,34 @@
+strict graph {
+    Ter1 -- Rot1;
+    Ter2 -- Rot4;
+    Ter3 -- Rot2;
+    Ter4 -- Rot3;
+    Rot1 -- Rot2;
+    Rot1 -- Rot3;
+    Rot1 -- Rot4;
+    Rot2 -- Rot1;
+    Rot2 -- Rot4;
+    Rot3 -- Rot1;
+    Rot3 -- Rot4;
+    Rot4 -- Rot1;
+    Rot4 -- Rot2;
+    Rot4 -- Rot3;
+}
+strict graph {
+    Ter1 -- Rot1;
+    Ter2 -- Rot4;
+    Ter3 -- Rot2;
+    Ter4 -- Rot3;
+    Ter5;
+    Rot1 -- Rot2;
+    Rot1 -- Rot3;
+    Rot1 -- Rot4;
+    Rot2 -- Rot1;
+    Rot2 -- Rot4;
+    Rot3 -- Rot1;
+    Rot3 -- Rot4;
+    Rot4 -- Rot1;
+    Rot4 -- Rot2;
+    Rot4 -- Rot3;
+}
+
